@@ -1,0 +1,17 @@
+[STARSHIP INFO]: Initializing...
+[STARSHIP INFO]: Path to module: D:\X-Plane 11 Second Copy/Aircraft/Test/MLK_SpaceX_Starship_SN15/plugins/744arcade/data/modules/main.lua
+[STARSHIP INFO]: Loading module...
+[STARSHIP INFO]: [LUA]: loading	module
+[STARSHIP INFO]: [LUA]: including	functions.lua
+[STARSHIP INFO]: [LUA]: including	datarefs.lua
+[STARSHIP INFO]: [LUA]: including	constants.lua
+[STARSHIP INFO]: [LUA]: including	D:\X-Plane 11 Second Copy/Aircraft/Test/MLK_SpaceX_Starship_SN15/plugins/744arcade/data/modules/main_windows.lua
+[STARSHIP INFO]: [LUA]: loading	flight_control
+[STARSHIP INFO]: [LUA]: including	pid_arrays.lua
+[STARSHIP INFO]: [LUA]: including	landing_debug.lua
+[STARSHIP INFO]: [LUA]: including	pid_arrays.lua
+[STARSHIP INFO]: [LUA]: including	landing_debug.lua
+[STARSHIP INFO]: [LUA]: loading	quatarnians
+[STARSHIP INFO]: Module loaded
+[STARSHIP INFO]: Disabling...
+[STARSHIP INFO]: SASL plugin stopped...
